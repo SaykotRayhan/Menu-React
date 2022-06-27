@@ -1,4 +1,4 @@
-# Reviews
+# Menu Project
 
 ## Project setup
 ```
